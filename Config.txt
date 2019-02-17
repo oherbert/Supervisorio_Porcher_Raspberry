@@ -1,0 +1,17 @@
+ArduinoCom: /dev/ttyACM0
+CloudFolder: https://drive.google.com/drive/folders/1ad7ErOeUKliwyPDP4FTEFxfGunt6fUGo?usp=sharing
+Horimetro: 345333
+LocalFolder: /home/pi/Registros
+OffSetSecagem_1: 1.0
+OffSetSecagem_2: 1.0
+OffSetSecagem_3: 1.0
+OffSetSecagem_4: 1.0
+OffSetVulcanizacao_1: 2.0
+OffSetVulcanizacao_2: 1.0
+OffSetVulcanizacao_3: 1.0
+OffSetVulcanizacao_4: 1.0
+RangeTemperatura1: 10
+RangeTemperatura2: 10
+TemperaturaSet1: 157
+TemperaturaSet2: 167
+TempoGravacao: 60
